@@ -1,9 +1,7 @@
 <h1 align="center">Yo 👺, I'm Tomás!</h1>
 <h3 align="center">A fullstack web dev based in Argentina</h3>
 
-- I’m working on **an e-commerce using Hasura, Typescript and React.**
-
-- I’m currently learning **Godot and a smidge of shaders**
+- I'm currently learning **solidity**! Building smart contracts, and their corresponding Web3 apps.
 
 - All of my projects are available here and some at [https://tomasellis.dev/](https://tomasellis.dev/)
 
