@@ -7,6 +7,4 @@
 
 - 📫 Reach me at **tomas.sydney.ellis@gmail.com**
 
-- 🐧 **<a href="https://twitter.com/ligmabytes" target="blank">Twitter: ligmabytes</a>**
-
 - 💀 ...<a href="https://linkedin.com/in/tomas-ellis-dev" target="blank">LinkedIn</a>
