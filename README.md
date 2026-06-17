@@ -3,7 +3,7 @@
 
 - I'm currently learning **ASM and Security** through [pwn.college](https://pwn.college/)!
 
-- All of my projects are available here and some at [https://tomasellis.dev/](https://tomasellis.dev/)
+- All of my projects are available here
 
 - 📫 Reach me at **tomas.sydney.ellis@gmail.com**
 
